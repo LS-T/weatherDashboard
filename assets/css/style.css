@@ -1,0 +1,11 @@
+header{
+    text-align: center;
+    background-color: gray;
+    color:white;
+    padding: 20px 0px;
+    font-size: large;
+}
+
+.currentCity{
+    border: 1px solid blue;
+}
