@@ -7,3 +7,4 @@
 
 This application allows a user to enter a city name into the search bar and the app will deliver the user the current weather data. It will also give the user a 5 day forecast, so that they can plan out their coming days. 
 
+Deployable link =[https://ls-t.github.io/weatherDashboard/]
