@@ -1,11 +1,15 @@
+*{
+    margin:0;
+}
 header{
     text-align: center;
-    background-color: gray;
+    background-color: rgb(26, 25, 25);
     color:white;
     padding: 20px 0px;
-    font-size: large;
+    font-size: 35px;
 }
 
-.currentCity{
-    border: 1px solid blue;
+.card{
+    background-color: blue;
+    color:white;
 }
